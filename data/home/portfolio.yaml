@@ -1,0 +1,39 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Website development Service"
+    title: "Want to bring your next idea in life?"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+    buttons: 
+      - label: "Submit requirements"
+        url: "#"
+
+      - label: "ZOOM meeting"
+        url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "SEO Audit & Services"
+    title: "Boost your *SEO* and keep your site shiny"
+    text: "Keeping your website up to date with latest content is challenging. What more challenging is when you perform an audit for SEO performance to test wheather your site is getting enough traffic or not. You see chaos and you find us."
+
+    buttons: 
+      - label: "Book a quote"
+        url: "#"
+
+      - label: "Let's test your site"
+        url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Hybrid Application Architecture Development"
+    title: "We developed an eCommerce website"
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"

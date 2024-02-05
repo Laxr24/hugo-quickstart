@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "How do **you** setup your **Tech** ?"
+  text: "What you need is clear understanding of the process that suits your need. A good consultation might work for you or it could a long run."
+
+  buttonPrimary:
+    label: "Book a consultancy"
+    url: "#"
+
+  buttonSecondary:
+    label: "Learn more"
+    url: ""
+

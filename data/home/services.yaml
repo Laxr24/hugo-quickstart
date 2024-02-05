@@ -1,0 +1,28 @@
+enabled: true
+id: "services"
+
+content:
+  title: "My services"
+  text: "Here is a solid view of my services. But these are not limited. Your may demand something out of the box. Let's talk then."
+
+  cards:
+    - image: "images/services-web-development.png"
+      title: "High Speed Websites"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Hybrid Mobile Apps"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Hybrid Desktop Apps"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"

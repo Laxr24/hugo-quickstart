@@ -1,0 +1,11 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "The brands I've worked with "
+  items:
+    - "images/brands-google.png"
+    - "images/brands-adobe.png"
+    - "images/brands-dropbox.png"
+    - "images/brands-samsumg.png"
+    - "images/brands-spotify.png"

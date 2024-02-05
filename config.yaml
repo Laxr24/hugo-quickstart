@@ -1,0 +1,87 @@
+baseURL: "/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "K. Shantonu"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "K. Shantonu"
+  description: "Specialized tech and business consultant."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "www.facebook.com/laxr24"
+    twitter: "#"
+    github: "https://www.github.com/laxr24"
+
+  location:
+    - "Gulshan, Dhaka-1212"
+
+  contact:
+    - "uits.shaan@gmail.com"
+    - "+8801772258677"
+
+  copyright: "© 2024 Up Business All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Work plan"
+      url: "/#"
+      weight: 2
+
+    - name: "Gallery"
+      url: "/#"
+      weight: 3
+
+    - name: "Life events"
+      url: "/blog"
+      weight: 4
+
+  buttons:
+    - name: "Appoinment"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Facebook"
+      url: "/#"
+      weight: 2
+
+    - name: "My space"
+      url: "/#"
+      weight: 3
+
+    - name: "Pricing"
+      url: "/#"
+      weight: 4
+
+    - name: "Upcoming events"
+      url: "/blog"
+      weight: 5
+
+taxonomies:
+  series: "series"
+  tags: "tags"
