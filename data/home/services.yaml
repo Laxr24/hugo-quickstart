@@ -6,21 +6,21 @@ content:
   text: "Here is a solid view of my services. But these are not limited. Your may demand something out of the box. Let's talk then."
 
   cards:
-    - image: "images/services-web-development.png"
+    - image: "images/3d-fluency-website.png"
       title: "High Speed Websites"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      text: "A high performance website is a must have to build & kickstart your business. If you don't own a website or domain name yet I can help you with that with the best choice you can make. Building websites doesn't have to be daunting anymore."
       button:
-        label: "Learn more"
+        label: "Let's talk"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/hybrid-apps.png"
       title: "Hybrid Mobile Apps"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/desktop-apps.gif"
       title: "Hybrid Desktop Apps"
       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
       button:

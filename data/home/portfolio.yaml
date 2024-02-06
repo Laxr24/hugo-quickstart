@@ -2,7 +2,7 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/thinking-3d-image-feb-2024.png"
     pretitle: "Website development Service"
     title: "Want to bring your next idea in life?"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
@@ -14,7 +14,7 @@ content:
       - label: "ZOOM meeting"
         url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/memphis-search-engine-optimization-and-seo-targets.png"
     pretitle: "SEO Audit & Services"
     title: "Boost your *SEO* and keep your site shiny"
     text: "Keeping your website up to date with latest content is challenging. What more challenging is when you perform an audit for SEO performance to test wheather your site is getting enough traffic or not. You see chaos and you find us."
@@ -26,10 +26,10 @@ content:
       - label: "Let's test your site"
         url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/3d-business-two-men-working-with-a-laptop.png"
     pretitle: "Hybrid Application Architecture Development"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    title: "Don't work hard, Work smart"
+    text: "Working hard is important but doesn't always yeilds expected outcomes. Best policy is to work smart. When you know what your business needs to hit those statistics. You are on the track."
 
     buttons: 
       - label: "See live"
