@@ -44,7 +44,7 @@ menus:
       weight: 1
 
     - name: "Work plan"
-      url: "/#"
+      url: "/work-plan"
       weight: 2
 
     - name: "Gallery"
